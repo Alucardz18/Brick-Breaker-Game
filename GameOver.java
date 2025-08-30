@@ -1,7 +1,5 @@
 /**
  * Nii Oye Kpakpo
- * Section 3
- * 11/18/2024
  *
  * display Game Over screen that exists game
  */
@@ -54,3 +52,4 @@ public class GameOver extends VBox {
         System.exit(0);  // Exit the game
     }
 }
+
