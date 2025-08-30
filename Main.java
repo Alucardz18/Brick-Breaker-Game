@@ -1,7 +1,5 @@
 /**
  * Nii Oye Kpakpo
- * Section 3
- * 11/18/2024
  */
 
 import edu.ncat.brickbreakerbackend.BrickBreakerIO;
