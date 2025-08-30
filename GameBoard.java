@@ -1,7 +1,5 @@
 /**
  * Nii Oye Kpakpo
- * Section 3
- * 11/18/2024
  *
  *zone for the PlayArea (center zone), the ScorePane and the StatusPane
  */
@@ -152,4 +150,5 @@ public class GameBoard extends BorderPane {
     }
 
 }
+
 
