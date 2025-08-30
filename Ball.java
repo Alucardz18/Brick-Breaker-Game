@@ -1,7 +1,5 @@
 /**
  * Nii Oye Kpakpo
- * Section 3
- * 11/18/2024
  *
  *Handles the user interface for selecting or creating player profiles.
  */
@@ -74,6 +72,7 @@ public class Ball extends Circle {
         this.direction = direction;
     }
 }
+
 
 
 
