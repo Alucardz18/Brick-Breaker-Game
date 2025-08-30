@@ -1,8 +1,5 @@
 /**
  * Nii Oye Kpakpo
- * Section 3
- * 11/18/2024
- *
  *
  */
 
@@ -35,4 +32,5 @@ public class Brick extends Rectangle {
         this.pointValue = pointValue;
     }
 }
+
 
