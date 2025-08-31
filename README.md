@@ -16,3 +16,7 @@ This makes it easy to extend the game (new levels, power-ups, scoring rules, etc
 - Add power-ups (multi-ball, larger paddle, etc.)
 - Add sound effects and graphics
 - Add lives system and game over screen
+
+# :warning: Note
+- This repository does not include artifacts, production files, or library files.
+- Please install JavaFX separately and configure your IDE to run the project.
